@@ -1,4 +1,4 @@
 <?php
-	echo "Ola mundo"
-	echo "Olá ALO 2"
+	echo "Hello World"
+	echo "Apenas ALO"
 ?>
